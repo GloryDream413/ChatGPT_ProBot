@@ -1,0 +1,12 @@
+python-telegram-bot[job-queue, rate-limiter]==20.1
+openai>=0.27.0
+tiktoken>=0.3.0
+PyYAML==6.0
+pymongo==4.3.3
+python-dotenv==0.21.0
+cryptomus==1.1
+jupyter==1.0.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+pandas>=1.5.3
+pydub==0.25.1
